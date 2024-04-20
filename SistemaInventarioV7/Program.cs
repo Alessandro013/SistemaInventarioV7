@@ -16,7 +16,7 @@ builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline. holaaaaaaaaa
 if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();

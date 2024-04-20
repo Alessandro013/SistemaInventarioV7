@@ -14,7 +14,7 @@ namespace SistemaInventarioV7.Areas.Inventario.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index()// holaaaaaaaaaaaaaa
         {
             return View();
         }
